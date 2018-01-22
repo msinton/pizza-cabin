@@ -1,0 +1,6 @@
+{"id": 1, "name": "hawaiian", "toppings": ["ham", "pineapple", "cheese"], "sauce": "tomato", "vegetarian": false}
+{"id": 2, "name": "margherita", "toppings": ["cheese"], "sauce": "tomato", "vegetarian": true}
+{"id": 3, "name": "bbq steak", "toppings": ["steak", "onion", "mixed peppers", "cheese"], "sauce": "bbq", "vegetarian": false}
+{"id": 4, "name": "pepperoni", "toppings": ["pepperoni", "cheese"], "sauce": "tomato", "vegetarian": false}
+{"id": 5, "name": "fiorentina", "toppings": ["spinach", "egg", "olives", "cheese"], "sauce": "tomato", "vegetarian": true}
+{"id": 6, "name": "meat feast", "toppings": ["ham", "pepperoni", "sausage", "cheese"], "sauce": "tomato", "vegetarian": false}
